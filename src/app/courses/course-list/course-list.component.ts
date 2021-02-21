@@ -19,7 +19,7 @@ export class CourseListComponent implements OnInit {
         price: 123,
         code: 'XP-123',
         duration: 123,
-        rating: 5.0,
+        rating: 4.5,
         releaseDate: 'Fevereiro, 20, 2021'
       },
       {
@@ -29,7 +29,7 @@ export class CourseListComponent implements OnInit {
         price: 321,
         code: 'PX-321',
         duration: 321,
-        rating: 5.0,
+        rating: 3.7,
         releaseDate: 'Dezembro, 12, 2020'
       }
     ]
